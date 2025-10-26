@@ -172,3 +172,22 @@ Con este trabajo aprendimos lo importante que es cuidar lo más valioso de la em
 En resumen, proteger la información y los recursos ayuda a que la empresa siga funcionando sin problemas y de manera más segura.
 
 ## 8. Bibliografía/Webgrafía
+
+- **INCIBE. Guía de gestión de riesgos de ciberseguridad (PDF). Disponible en:** [https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia\_ciberseguridad\_gestion\_riesgos\_metad.pdf](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf)
+
+- **Revilofe. (2023). Análisis de riesgos – Introducción y fases. Recuperado de** [https://revilofe.github.io/section2/u01/teoria/IS-U1.2.2.-AnalisiDeRiesgos/](https://revilofe.github.io/section2/u01/teoria/IS-U1.2.2.-AnalisiDeRiesgos/)
+
+- **INCIBE – Guía de Ciberseguridad para Empresas**
+
+* Instituto Nacional de Ciberseguridad de España. "Análisis de riesgos en 6 pasos". Recuperado de: [https://www.incibe.es/empresas/blog/analisis-riesgos-pasos-sencillo](https://www.incibe.es/empresas/blog/analisis-riesgos-pasos-sencillo)  
+- **INCIBE – Metodologías de Análisis de Riesgos**  
+* Instituto Nacional de Ciberseguridad de España. "Metodologías de Análisis de Riesgos". Recuperado de: [https://www.incibe.es/sites/default/files/contenidos/dosieres/plan-director-seguridad/plan\_director\_de\_seguridad\_metodologias\_analisis\_de\_riesgos.pdf](https://www.incibe.es/sites/default/files/contenidos/dosieres/plan-director-seguridad/plan_director_de_seguridad_metodologias_analisis_de_riesgos.pdf)  
+    
+- **NQA – Guía de Implantación de ISO 27001:2022**
+
+* NQA. "ISO 27001:2022 – Guía de Implantación". Recuperado de: [https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/Spanish%20QRFs%20and%20PDFs/NQA-ISO-27001-Guia-de-implantacion.pdf](https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/Spanish%20QRFs%20and%20PDFs/NQA-ISO-27001-Guia-de-implantacion.pdf)  
+    
+- **Wikipedia – ISO/IEC 27001**
+
+* Wikipedia. "ISO/IEC 27001". Recuperado de: [https://es.wikipedia.org/wiki/ISO/IEC\_27001](https://es.wikipedia.org/wiki/ISO/IEC_27001)  
+  
