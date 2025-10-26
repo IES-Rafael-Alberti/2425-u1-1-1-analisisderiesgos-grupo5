@@ -115,15 +115,36 @@ Estas amenazas pueden afectar tanto a los sistemas internos como a los servicios
 
 ## 4. Identificar vulnerabilidades y salvaguardas {#4.-identificar-vulnerabilidades-y-salvaguardas}
 
-
+El análisis de riesgos permite conocer el nivel actual de protección de la empresa, identificar debilidades y establecer una base para la mejora continua dentro del Plan Director de Seguridad.
 
 ### 4.1. Identificación de salvaguardas (Medidas y controles de seguridad)
 
+La empresa dispone de algunas medidas básicas de seguridad, entre ellas:
 
+* Copias de seguridad gestionadas por el personal TIC, con procedimientos documentados.
+
+* Antivirus corporativo administrado por una empresa subcontratada.
+
+* Firewall perimetral que segmenta la red interna por departamentos.
+
+* Cumplimiento del RGPD garantizado mediante una consultoría externa.
+
+* Controles físicos de acceso gestionados por empresas de seguridad.
+
+Aunque estas salvaguardas ofrecen una base de protección, necesitan mayor formalización, revisión periódica y aprobación directiva para asegurar una gestión eficaz.
 
 ### 4.2. Vulnerabilidades/Debilidades
 
+Entre las principales debilidades detectadas se encuentran:
 
+* Falta de políticas de seguridad formalizadas y aprobadas por la dirección.  
+* Escasa formación del personal en materia de ciberseguridad.  
+* Gestión externa de la web y tienda online sin control interno.  
+* Dependencia de proveedores sin auditorías de seguridad.  
+* Copias de seguridad almacenadas localmente, con riesgo ante siniestros.  
+* Ausencia de un plan de respuesta ante incidentes.
+
+Estas vulnerabilidades evidencian la necesidad de implantar un **Sistema de Gestión de la Seguridad de la Información (SGSI)** que mejore la protección de los activos y garantice la continuidad del negocio.
 
 ## 5. Evaluación y cálculo del riesgo
 
