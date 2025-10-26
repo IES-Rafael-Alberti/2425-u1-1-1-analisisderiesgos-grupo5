@@ -37,7 +37,7 @@
 ---
 
 
-## Introducción {#0.-introducción}
+## Introducción
 
 - **Grupo e integrantes:**
 
@@ -80,7 +80,7 @@ La empresa dispone de diversos servicios tecnológicos, entre ellos servidores i
 
 * **Domingo (26/10/2025):** desarrollo de los apartados 6\. Evaluación y cálculo del riesgo, 7\. Medidas complementarias para proteger los activos, 8\. Conclusión, revisión final del informe y redacción completa.
 
-## 1. Alcance del análisis  {#1.-alcance-del-análisis}
+## 1. Alcance del análisis
 El análisis de riesgos forma parte del Plan Director de Seguridad (PDS) de la empresa y tiene como objetivo identificar y evaluar los riesgos que pueden afectar a los activos tecnológicos y a la información que se gestiona.
 
 En este caso, el estudio se centra en los servicios y sistemas del Departamento de Informática (TIC), encargado de administrar los servidores, redes, equipos, copias de seguridad y aplicaciones críticas como CRM y ERP. Cualquier problema en este departamento podría impactar directamente en la continuidad del negocio y en la disponibilidad de los servicios.
@@ -89,7 +89,7 @@ El análisis también tiene en cuenta la comunicación del área TIC con otros d
 
 El alcance incluye los sistemas internos de las dos sedes, los recursos digitales utilizados por los empleados y los servicios en la nube, quedando fuera los aspectos de seguridad física, que son gestionados por empresas externas.
 
-## 2. Identificación de los activos  {#2.-identificación-de-los-activos}
+## 2. Identificación de los activos
 
 Una vez definido el alcance, se identifican los activos más relevantes del Departamento de Informática (TIC) y de los servicios tecnológicos de la empresa. Estos activos son esenciales para el funcionamiento diario, la gestión de la información y la continuidad de la actividad.
 
@@ -97,7 +97,7 @@ Para mantener un control adecuado, se ha elaborado un inventario de activos que 
 
 El inventario completo se encuentra disponible en el archivo Excel, llamado **plan\_director\_de\_seguridad\_inventario\_activos.xls**, adjunto a esta entrega.
 
-## 3. Amenazas que pueden afectar a los activos {#3.-amenazas-que-pueden-afectar-a-los-activos}
+## 3. Amenazas que pueden afectar a los activos
 
 Las principales amenazas que pueden afectar a los activos de la empresa provienen de factores físicos, técnicos y humanos. Estas pueden comprometer la confidencialidad, integridad o disponibilidad de la información y de los sistemas, afectando directamente al funcionamiento diario de la organización.
 
@@ -117,15 +117,15 @@ Estas amenazas pueden afectar tanto a los sistemas internos como a los servicios
 
 
 
-### 4.1. Identificación de salvaguardas (Medidas y controles de seguridad)  {#4.1-identificación-de-salvaguardas-(medidas-y-controles-de-seguridad)}
+### 4.1. Identificación de salvaguardas (Medidas y controles de seguridad)
 
 
 
-### 4.2. Vulnerabilidades/Debilidades {#4.2-vulnerabilidades/debilidades}
+### 4.2. Vulnerabilidades/Debilidades
 
 
 
-## 5. Evaluación y cálculo del riesgo {#5.-evaluación-y-cálculo-del-riesgo}
+## 5. Evaluación y cálculo del riesgo
 
 Una vez identificados los activos, las amenazas y las vulnerabilidades, se procede a la **evaluación de los riesgos** para determinar la probabilidad de que un incidente ocurra y el impacto que tendría sobre la empresa.  
 El análisis se ha realizado siguiendo una metodología cualitativa basada en la guía del **INCIBE** y el **método MAGERIT**, considerando los tres pilares fundamentales de la seguridad de la información: **confidencialidad, integridad y disponibilidad (CID)**.
@@ -144,7 +144,7 @@ El **nivel de riesgo (R)** se calcula mediante la relación:
 * **Riesgo Medio:** requiere seguimiento y controles preventivos.  
 * **Riesgo Alto:** requiere medidas urgentes de mitigación y plan de acción.
 
-## 6. Medidas complementarias que permitan materializar la protección de los activos. {#6.-medidas-complementarias-que-permitan-materializar-la-protección-de-los-activos.}
+## 6. Medidas complementarias que permitan materializar la protección de los activos.
 
 A partir de la evaluación de riesgos, se proponen las siguientes **medidas complementarias de seguridad**, orientadas a reforzar la protección de los activos, reducir la probabilidad de incidentes y mejorar la madurez del sistema de seguridad.
 
@@ -165,6 +165,6 @@ A partir de la evaluación de riesgos, se proponen las siguientes **medidas comp
 * **Cifrado de dispositivos móviles y portátiles** para proteger la información en caso de pérdida o robo.  
 * **Monitorización continua y detección de intrusiones (IDS/IPS)** en la red interna.
 
-## 7. Conclusión {#7.-conclusión}
+## 7. Conclusión
 
-## 8. Bibliografía/Webgrafía {#8.-bibliografía/webgrafía}
+## 8. Bibliografía/Webgrafía
