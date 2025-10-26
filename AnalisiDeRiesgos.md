@@ -43,10 +43,10 @@
 
 **Grupo 5 \- G5**
 
-* **Sergio González:**   
-* **Iván Paúl:**   
-* **Javier Calvillo:**   
-* **Manuel Pérez:** 
+* **Sergio González:** introducción, alcance del análisis, identificación de los activos y amenazas que pueden afectar a los activos, conclusión y bibliografía.
+* **Iván Paúl:** introducción, alcance del análisis, identificación de los activos y amenazas que pueden afectar a los activos, conclusión y bibliografía.
+* **Javier Calvillo:** identificar vulnerabilidades y salvaguardas (medidas y controles de seguridad), vulnerabilidades/debilidades, conclusión y bibliografía.
+* **Manuel Pérez:** evaluación y cálculo del riesgo, medidas complementarias que permitan materializar la protección de los activos, conclusión y bibliografía.
 
 - **Presentación del ejercicio**
 
