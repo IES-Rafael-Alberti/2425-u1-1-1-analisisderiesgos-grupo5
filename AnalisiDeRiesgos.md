@@ -167,4 +167,8 @@ A partir de la evaluación de riesgos, se proponen las siguientes **medidas comp
 
 ## 7. Conclusión
 
+Con este trabajo aprendimos lo importante que es cuidar lo más valioso de la empresa, como los datos y los sistemas que usamos todos los días. Nos dimos cuenta de que no solo basta con tener medidas de seguridad, sino que también hay que organizarlas, enseñar al personal y tener un plan por si algo falla.
+
+En resumen, proteger la información y los recursos ayuda a que la empresa siga funcionando sin problemas y de manera más segura.
+
 ## 8. Bibliografía/Webgrafía
