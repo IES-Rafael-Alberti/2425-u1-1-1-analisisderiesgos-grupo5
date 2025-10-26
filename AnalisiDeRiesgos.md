@@ -11,27 +11,27 @@
 
 ## Índice
 
-[**Introducción**](#0.-introducción)
+[**Introducción**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#introducci%C3%B3n)
 
-[**Alcance del análisis**](#0.-introducción)
+[**1. Alcance del análisis**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#1-alcance-del-an%C3%A1lisis)
 
-[**2. Identificación de los activos**](#2.-identificación-de-los-activos)
+[**2. Identificación de los activos**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#2-identificaci%C3%B3n-de-los-activos)
 
-[**3. Amenazas que pueden afectar a los activos**](#3.-amenazas-que-pueden-afectar-a-los-activos)
+[**3. Amenazas que pueden afectar a los activos**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#3-amenazas-que-pueden-afectar-a-los-activos)
 
-[**4. Identificar vulnerabilidades y salvaguardas**](#4.-identificar-vulnerabilidades-y-salvaguardas)
+[**4. Identificar vulnerabilidades y salvaguardas**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#4-identificar-vulnerabilidades-y-salvaguardas-4-identificar-vulnerabilidades-y-salvaguardas)
 
-[4.1. Identificación de salvaguardas (Medidas y controles de seguridad)](#4.1-identificación-de-salvaguardas-\(medidas-y-controles-de-seguridad\))
+[4.1. Identificación de salvaguardas (Medidas y controles de seguridad)](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#41-identificaci%C3%B3n-de-salvaguardas-medidas-y-controles-de-seguridad)
 
-[4.2. Vulnerabilidades/Debilidades](#4.2-vulnerabilidades/debilidades)
+[4.2. Vulnerabilidades/Debilidades](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#42-vulnerabilidadesdebilidades)
 
-[**5. Evaluación y cálculo del riesgo**](#5.-evaluación-y-cálculo-del-riesgo)
+[**5. Evaluación y cálculo del riesgo**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#5-evaluaci%C3%B3n-y-c%C3%A1lculo-del-riesgo)
 
-[**6. Medidas complementarias que permitan materializar la protección de los activos.**](#6.-medidas-complementarias-que-permitan-materializar-la-protección-de-los-activos.)
+[**6. Medidas complementarias que permitan materializar la protección de los activos.**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#6-medidas-complementarias-que-permitan-materializar-la-protecci%C3%B3n-de-los-activos)
 
-[**7. Conclusión**](#7.-conclusión)
+[**7. Conclusión**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#7-conclusi%C3%B3n)
 
-[**8. Bibliografía/Webgrafía**](#8.-bibliografía/webgrafía)
+[**8. Bibliografía/Webgrafía**](https://github.com/IES-Rafael-Alberti/2425-u1-1-1-analisisderiesgos-grupo5/blob/master/AnalisiDeRiesgos.md#8-bibliograf%C3%ADawebgraf%C3%ADa)
 
 
 ---
