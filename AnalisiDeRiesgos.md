@@ -81,8 +81,13 @@ La empresa dispone de diversos servicios tecnológicos, entre ellos servidores i
 * **Domingo (26/10/2025):** desarrollo de los apartados 6\. Evaluación y cálculo del riesgo, 7\. Medidas complementarias para proteger los activos, 8\. Conclusión, revisión final del informe y redacción completa.
 
 ## 1. Alcance del análisis  {#1.-alcance-del-análisis}
-Estrategía empresarial de la empresa, como afecta a las actividades comerciales.   
-Departamento o área de la empresa que se va a analizar.
+El análisis de riesgos forma parte del Plan Director de Seguridad (PDS) de la empresa y tiene como objetivo identificar y evaluar los riesgos que pueden afectar a los activos tecnológicos y a la información que se gestiona.
+
+En este caso, el estudio se centra en los servicios y sistemas del Departamento de Informática (TIC), encargado de administrar los servidores, redes, equipos, copias de seguridad y aplicaciones críticas como CRM y ERP. Cualquier problema en este departamento podría impactar directamente en la continuidad del negocio y en la disponibilidad de los servicios.
+
+El análisis también tiene en cuenta la comunicación del área TIC con otros departamentos, especialmente aquellos que manejan información sensible, como Ventas, RRHH o Legal, además de la dependencia de servicios externos como la página web y el almacenamiento en la nube.
+
+El alcance incluye los sistemas internos de las dos sedes, los recursos digitales utilizados por los empleados y los servicios en la nube, quedando fuera los aspectos de seguridad física, que son gestionados por empresas externas.
 
 ## 2. Identificación de los activos  {#2.-identificación-de-los-activos}
 
